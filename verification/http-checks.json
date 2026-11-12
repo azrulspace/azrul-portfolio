@@ -1,0 +1,46 @@
+[
+  {
+    "path": "/",
+    "status": 200
+  },
+  {
+    "path": "/project/eduqat-assignment",
+    "status": 200
+  },
+  {
+    "path": "/project/agenticas",
+    "status": 200
+  },
+  {
+    "path": "/project/hastyhire",
+    "status": 200
+  },
+  {
+    "path": "/project/nurri",
+    "status": 200
+  },
+  {
+    "path": "/project/eduqat-ai-course",
+    "status": 200
+  },
+  {
+    "path": "/vibe",
+    "status": 200
+  },
+  {
+    "path": "/aboutme",
+    "status": 200
+  },
+  {
+    "path": "/works",
+    "status": 200
+  },
+  {
+    "path": "/src/App.jsx",
+    "status": 200
+  },
+  {
+    "path": "/framer-extra/content-details-eduqat-course.js",
+    "status": 200
+  }
+]

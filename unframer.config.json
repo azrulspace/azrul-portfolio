@@ -1,0 +1,49 @@
+{
+  "jsx": true,
+  "outDir": "framer-extra",
+  "projectId": "80c8b67883fb9b67",
+  "projectName": "Portofolio Azrul (copy)",
+  "components": {
+    "smooth-scroll": "https://framerusercontent.com/modules/Yppqt3Cs3Y8TZqvASnXl/PGrowqBrgWCViHduGfsA/SmoothScroll_Prod.js",
+    "content-details-eduqat-course": "https://framer.com/m/Content-Details-Eduqat-apBvwi.js@CjsRcYgVRO4YqCekqMCa"
+  },
+  "framerWebPages": [
+    {
+      "webPageId": "augiA20Il",
+      "path": "/"
+    },
+    {
+      "webPageId": "oFBR43Dzj",
+      "path": "/project/eduqat-assignment"
+    },
+    {
+      "webPageId": "Tygs79_oG",
+      "path": "/project/agenticas"
+    },
+    {
+      "webPageId": "dgXSWMKus",
+      "path": "/project/hastyhire"
+    },
+    {
+      "webPageId": "GnRjKGmY3",
+      "path": "/project/nurri"
+    },
+    {
+      "webPageId": "SZH_RulNm",
+      "path": "/project/eduqat-ai-course"
+    },
+    {
+      "webPageId": "iSF0DqzfK",
+      "path": "/vibe"
+    },
+    {
+      "webPageId": "kPc_ABa5j",
+      "path": "/aboutme"
+    },
+    {
+      "webPageId": "qkvx3SZFR",
+      "path": "/works"
+    }
+  ],
+  "componentInstancesInIndexPage": []
+}

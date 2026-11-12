@@ -1,0 +1,36 @@
+{
+  "project": "https://framer.com/projects/Portofolio-Azrul-copy--LGMJfXafewgZRINIed43-25oAf",
+  "screenshots": [
+    {
+      "page": "Home",
+      "breakpoint": "Phone",
+      "url": "https://framerusercontent.com/screenshots/on-demand/d0eec8db-a057-4a8f-84a7-4beaa96c8d60.jpg"
+    },
+    {
+      "page": "Home",
+      "breakpoint": "Tablet",
+      "url": "https://framerusercontent.com/screenshots/on-demand/c8292e84-8049-41d4-ae60-8c444bfececd.jpg"
+    },
+    {
+      "page": "About",
+      "breakpoint": "Desktop",
+      "url": "https://framerusercontent.com/screenshots/on-demand/5b5022d4-3b75-49c0-a06e-e7358f987bc1.jpg"
+    },
+    {
+      "page": "Works",
+      "breakpoint": "Desktop",
+      "url": "https://framerusercontent.com/screenshots/on-demand/00d1ecce-3b1e-4d10-a5d3-bbdefd8ab942.jpg"
+    },
+    {
+      "page": "Agenticas",
+      "breakpoint": "Desktop",
+      "url": "https://framerusercontent.com/screenshots/on-demand/f23ec6a5-458c-4165-a629-6ee1817f7248.jpg"
+    },
+    {
+      "page": "Vibe",
+      "breakpoint": "Desktop",
+      "url": "https://framerusercontent.com/screenshots/on-demand/18d9ae8c-fbe9-403f-9f93-761e983a64e9.jpg"
+    }
+  ],
+  "localBrowserVerified": false
+}

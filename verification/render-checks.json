@@ -1,0 +1,179 @@
+{
+  "results": [
+    {
+      "path": "/",
+      "breakpoint": "Desktop",
+      "components": 11,
+      "status": "passed"
+    },
+    {
+      "path": "/",
+      "breakpoint": "Tablet",
+      "components": 11,
+      "status": "passed"
+    },
+    {
+      "path": "/",
+      "breakpoint": "Phone",
+      "components": 11,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-assignment",
+      "breakpoint": "Desktop",
+      "components": 4,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-assignment",
+      "breakpoint": "Tablet",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-assignment",
+      "breakpoint": "Phone",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/agenticas",
+      "breakpoint": "Desktop",
+      "components": 4,
+      "status": "passed"
+    },
+    {
+      "path": "/project/agenticas",
+      "breakpoint": "Tablet",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/agenticas",
+      "breakpoint": "Phone",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/hastyhire",
+      "breakpoint": "Desktop",
+      "components": 4,
+      "status": "passed"
+    },
+    {
+      "path": "/project/hastyhire",
+      "breakpoint": "Tablet",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/hastyhire",
+      "breakpoint": "Phone",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/nurri",
+      "breakpoint": "Desktop",
+      "components": 4,
+      "status": "passed"
+    },
+    {
+      "path": "/project/nurri",
+      "breakpoint": "Tablet",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/nurri",
+      "breakpoint": "Phone",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-ai-course",
+      "breakpoint": "Desktop",
+      "components": 4,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-ai-course",
+      "breakpoint": "Tablet",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/project/eduqat-ai-course",
+      "breakpoint": "Phone",
+      "components": 5,
+      "status": "passed"
+    },
+    {
+      "path": "/vibe",
+      "breakpoint": "Desktop",
+      "components": 2,
+      "status": "passed"
+    },
+    {
+      "path": "/vibe",
+      "breakpoint": "Tablet",
+      "components": 2,
+      "status": "passed"
+    },
+    {
+      "path": "/vibe",
+      "breakpoint": "Phone",
+      "components": 2,
+      "status": "passed"
+    },
+    {
+      "path": "/aboutme",
+      "breakpoint": "Desktop",
+      "components": 7,
+      "status": "passed"
+    },
+    {
+      "path": "/aboutme",
+      "breakpoint": "Tablet",
+      "components": 7,
+      "status": "passed"
+    },
+    {
+      "path": "/aboutme",
+      "breakpoint": "Phone",
+      "components": 7,
+      "status": "passed"
+    },
+    {
+      "path": "/works",
+      "breakpoint": "Desktop",
+      "components": 6,
+      "status": "passed"
+    },
+    {
+      "path": "/works",
+      "breakpoint": "Tablet",
+      "components": 6,
+      "status": "passed"
+    },
+    {
+      "path": "/works",
+      "breakpoint": "Phone",
+      "components": 6,
+      "status": "passed"
+    }
+  ],
+  "renders": 148,
+  "warnings": [
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. motionChild motionchild",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. scopeId scopeid",
+    "Accessing element.ref was removed in React 19. ref is now a regular prop. It will be removed from the JSX Element type in a future release.",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. __withFX __withfx",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. SRIijrjab sriijrjab",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. uWhojVhg5 uwhojvhg5",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. eSjNkdE0_ esjnkde0_",
+    "An empty string (\"\") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src",
+    "React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. vnoBEC_Gm vnobec_gm"
+  ],
+  "browserVerified": false
+}

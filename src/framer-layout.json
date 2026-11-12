@@ -1,0 +1,1834 @@
+{
+  "/": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-section",
+            "component": "hero-section",
+            "sourceId": "GP5sGAH6j",
+            "height": "1625px",
+            "props": {}
+          },
+          {
+            "id": "dribbble-shot-section",
+            "component": "dribbble-shot-section",
+            "sourceId": "DCCTsD0Kp",
+            "height": "530px",
+            "props": {},
+            "gap": -72
+          },
+          {
+            "id": "why-me-section",
+            "component": "why-me-section",
+            "sourceId": "nmSPdIAkU",
+            "height": "1441px",
+            "props": {},
+            "gap": -1
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section",
+            "sourceId": "VgQLlSmR5",
+            "height": "3199px",
+            "props": {},
+            "gap": -1
+          },
+          {
+            "id": "section-difference",
+            "component": "section-difference",
+            "sourceId": "xaiTMCpda",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "N15W6Mx2K",
+            "height": "901px",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "faq-section",
+            "component": "faq-section",
+            "sourceId": "blzamraI1",
+            "height": "1097px",
+            "props": {},
+            "gap": -1
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "jl73qRUf5",
+            "height": "661px",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "design-lagi-section",
+            "component": "design-lagi-section",
+            "sourceId": "RkBjb2ejE",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "IsVNELrJ2",
+            "height": "790px",
+            "props": {},
+            "gap": 37
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "BhQ9DOkEe",
+          "height": "auto",
+          "props": {}
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-section",
+            "component": "hero-section",
+            "sourceId": "GP5sGAH6j",
+            "height": "1436px",
+            "props": {
+              "variant": "zIT5V1T9r"
+            }
+          },
+          {
+            "id": "dribbble-shot-section",
+            "component": "dribbble-shot-section",
+            "sourceId": "DCCTsD0Kp",
+            "height": "462px",
+            "props": {
+              "variant": "FEXnuArV2"
+            },
+            "gap": -72
+          },
+          {
+            "id": "why-me-section",
+            "component": "why-me-section",
+            "sourceId": "nmSPdIAkU",
+            "height": "1315px",
+            "props": {
+              "variant": "mscGtj63q"
+            },
+            "gap": 0
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section",
+            "sourceId": "VgQLlSmR5",
+            "height": "3458px",
+            "props": {
+              "variant": "CJkf1woka"
+            },
+            "gap": 0
+          },
+          {
+            "id": "section-difference",
+            "component": "section-difference",
+            "sourceId": "xaiTMCpda",
+            "height": "auto",
+            "props": {
+              "variant": "oUNwTNaa7"
+            },
+            "gap": 0
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "N15W6Mx2K",
+            "height": "1395px",
+            "props": {
+              "variant": "a9gFpvqre"
+            },
+            "gap": -7
+          },
+          {
+            "id": "faq-section",
+            "component": "faq-section",
+            "sourceId": "blzamraI1",
+            "height": "1360px",
+            "props": {
+              "variant": "bvV_I9F_e"
+            },
+            "gap": 23
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "jl73qRUf5",
+            "height": "661px",
+            "props": {
+              "variant": "EZXLuEeiq"
+            },
+            "gap": 0
+          },
+          {
+            "id": "design-lagi-section",
+            "component": "design-lagi-section",
+            "sourceId": "RkBjb2ejE",
+            "height": "2463px",
+            "props": {
+              "variant": "N1yqTty4l"
+            },
+            "gap": 67
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "IsVNELrJ2",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            },
+            "gap": 14
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "BhQ9DOkEe",
+          "height": "auto",
+          "props": {
+            "variant": "FUoO8xmm9"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-section",
+            "component": "hero-section",
+            "sourceId": "GP5sGAH6j",
+            "height": "1625px",
+            "props": {
+              "variant": "B3Uph34jz"
+            }
+          },
+          {
+            "id": "dribbble-shot-section",
+            "component": "dribbble-shot-section",
+            "sourceId": "DCCTsD0Kp",
+            "height": "auto",
+            "props": {
+              "variant": "QqRnvP4EO"
+            },
+            "gap": 11
+          },
+          {
+            "id": "why-me-section",
+            "component": "why-me-section",
+            "sourceId": "nmSPdIAkU",
+            "height": "2542px",
+            "props": {
+              "variant": "uobcosgv4"
+            },
+            "gap": 83
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section",
+            "sourceId": "VgQLlSmR5",
+            "height": "3112px",
+            "props": {
+              "variant": "B4zezImOM"
+            },
+            "gap": 0
+          },
+          {
+            "id": "section-difference",
+            "component": "section-difference",
+            "sourceId": "xaiTMCpda",
+            "height": "1262px",
+            "props": {
+              "variant": "vxJvbSCMf"
+            },
+            "gap": -15
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "N15W6Mx2K",
+            "height": "1907px",
+            "props": {
+              "variant": "X720JEYlc"
+            },
+            "gap": 0
+          },
+          {
+            "id": "faq-section",
+            "component": "faq-section",
+            "sourceId": "blzamraI1",
+            "height": "1492px",
+            "props": {
+              "variant": "U1M9jGj5Y"
+            },
+            "gap": 0
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "jl73qRUf5",
+            "height": "619px",
+            "props": {
+              "variant": "CM8cmqqsk"
+            },
+            "gap": -1
+          },
+          {
+            "id": "design-lagi-section",
+            "component": "design-lagi-section",
+            "sourceId": "RkBjb2ejE",
+            "height": "auto",
+            "props": {
+              "variant": "OrOJHVbWL"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "IsVNELrJ2",
+            "height": "auto",
+            "props": {
+              "variant": "iQtnnQX9B"
+            },
+            "gap": 18
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "BhQ9DOkEe",
+          "height": "auto",
+          "props": {
+            "variant": "XhYI2h8DK"
+          }
+        },
+        "headerTop": "15px",
+        "panel": null
+      }
+    }
+  },
+  "/project/eduqat-assignment": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-eduqat-assignment",
+            "component": "hero-eduqat-assignment",
+            "sourceId": "fxkz6nS7S",
+            "height": "1230px",
+            "props": {}
+          },
+          {
+            "id": "content-details-eduqat-assignment",
+            "component": "content-details-eduqat-assignment",
+            "sourceId": "xdSnGMpHh",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "gBePxgbtV",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "wL6uOcrPQ",
+          "height": "80px",
+          "props": {}
+        },
+        "headerTop": "0px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-eduqat-assignment",
+            "component": "hero-eduqat-assignment",
+            "sourceId": "fxkz6nS7S",
+            "height": "1065px",
+            "props": {
+              "variant": "MLZwy5vff"
+            }
+          },
+          {
+            "id": "content-details-eduqat-assignment",
+            "component": "content-details-eduqat-assignment",
+            "sourceId": "xdSnGMpHh",
+            "height": "auto",
+            "props": {
+              "variant": "mFINJvlP7"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "gBePxgbtV",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "wL6uOcrPQ",
+          "height": "80px",
+          "props": {
+            "variant": "ImqMkoRNe"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "jXtbtm5h6",
+          "height": "auto",
+          "props": {
+            "variant": "uuZtQcfO1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": true,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "Brief vs Reality",
+            "ULZ4DmAKg": "Root Cause",
+            "UN9ew2HTo": "Evidence",
+            "Gieu70rUp": "Competition",
+            "nSSdsaPWT": "Design Direction",
+            "Q01J5TifU": "Userflow",
+            "KV43pDlgo": "Decisions",
+            "WV92YHL0E": "UI Breakdown",
+            "HCoDOC7YO": "AI Branding",
+            "YhWT4BcVe": "Battle Story",
+            "ryt2oDd5W": "Result",
+            "o65vsNGLx": "Reflection",
+            "ZKcZS3YfF": "/project/eduqat-assignment",
+            "pGpnnRN06": "/project/eduqat-assignment",
+            "jooypjTyi": "/project/eduqat-assignment",
+            "FQpf_uFEM": "/project/eduqat-assignment",
+            "QvNDSDoq_": "/project/eduqat-assignment",
+            "Z1fLmcwTP": "/project/eduqat-assignment",
+            "ljlVRwBF9": "/project/eduqat-assignment",
+            "cPCwy7LLY": "/project/eduqat-assignment",
+            "CcBy7fG1p": "/project/eduqat-assignment",
+            "Wa3avzfGy": "/project/eduqat-assignment",
+            "Z8K3w_woD": "/project/eduqat-assignment",
+            "bEr3en2B5": "/project/eduqat-assignment"
+          },
+          "width": "228px",
+          "top": "144px",
+          "right": "28px"
+        }
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-eduqat-assignment",
+            "component": "hero-eduqat-assignment",
+            "sourceId": "fxkz6nS7S",
+            "height": "1480px",
+            "props": {
+              "variant": "UK1fSyxUa"
+            }
+          },
+          {
+            "id": "content-details-eduqat-assignment",
+            "component": "content-details-eduqat-assignment",
+            "sourceId": "xdSnGMpHh",
+            "height": "auto",
+            "props": {
+              "variant": "JrWGzavKt"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "gBePxgbtV",
+            "height": "984px",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "wL6uOcrPQ",
+          "height": "80px",
+          "props": {
+            "variant": "F59MIEyES"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "DyIej0f_k",
+          "height": "auto",
+          "props": {
+            "variant": "eGY4KHJg1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "Brief vs Reality",
+            "ULZ4DmAKg": "Root Cause",
+            "UN9ew2HTo": "Evidence",
+            "Gieu70rUp": "Competition",
+            "nSSdsaPWT": "Design Direction",
+            "Q01J5TifU": "Userflow",
+            "KV43pDlgo": "Decisions",
+            "WV92YHL0E": "UI Breakdown",
+            "HCoDOC7YO": "Battle Story",
+            "YhWT4BcVe": "Result",
+            "ryt2oDd5W": "Reflection",
+            "o65vsNGLx": "Reflection",
+            "ZKcZS3YfF": "/project/eduqat-assignment",
+            "pGpnnRN06": "/project/eduqat-assignment",
+            "jooypjTyi": "/project/eduqat-assignment",
+            "FQpf_uFEM": "/project/eduqat-assignment",
+            "QvNDSDoq_": "/project/eduqat-assignment",
+            "Z1fLmcwTP": "/project/eduqat-assignment",
+            "ljlVRwBF9": "/project/eduqat-assignment",
+            "cPCwy7LLY": "/project/eduqat-assignment",
+            "CcBy7fG1p": "/project/eduqat-assignment",
+            "Wa3avzfGy": "/project/eduqat-assignment",
+            "Z8K3w_woD": "/project/eduqat-assignment",
+            "bEr3en2B5": "/project/eduqat-assignment"
+          },
+          "width": "208px",
+          "top": "143px",
+          "right": "20px"
+        }
+      }
+    }
+  },
+  "/project/agenticas": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-agenticas",
+            "component": "hero-agenticas",
+            "sourceId": "b4nOhPjwo",
+            "height": "1230px",
+            "props": {}
+          },
+          {
+            "id": "content-details-hastyhire-2",
+            "component": "content-details-hastyhire-2",
+            "sourceId": "Bb6tRaVhY",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "pZBZiVFOg",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "UbSW1UJWD",
+          "height": "80px",
+          "props": {}
+        },
+        "headerTop": "0px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-agenticas",
+            "component": "hero-agenticas",
+            "sourceId": "b4nOhPjwo",
+            "height": "1065px",
+            "props": {
+              "variant": "vDGKiQL_I"
+            }
+          },
+          {
+            "id": "content-details-hastyhire-2",
+            "component": "content-details-hastyhire-2",
+            "sourceId": "Bb6tRaVhY",
+            "height": "auto",
+            "props": {
+              "variant": "dwv99Avyu"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "pZBZiVFOg",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "UbSW1UJWD",
+          "height": "80px",
+          "props": {
+            "variant": "ImqMkoRNe"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "vHBp5Tlm6",
+          "height": "auto",
+          "props": {
+            "variant": "uuZtQcfO1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": false,
+            "HXb49v8kI": false,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "My Role",
+            "ULZ4DmAKg": "The Challenge",
+            "UN9ew2HTo": "Design System",
+            "Gieu70rUp": "How it Works",
+            "nSSdsaPWT": "Key Decision",
+            "Q01J5TifU": "Battle Story",
+            "KV43pDlgo": "Landing Page",
+            "WV92YHL0E": "Outcomes",
+            "HCoDOC7YO": "Reflection",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "228px",
+          "top": "144px",
+          "right": "28px"
+        }
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-agenticas",
+            "component": "hero-agenticas",
+            "sourceId": "b4nOhPjwo",
+            "height": "1559px",
+            "props": {
+              "variant": "IX6ajEPks"
+            }
+          },
+          {
+            "id": "content-details-hastyhire-2",
+            "component": "content-details-hastyhire-2",
+            "sourceId": "Bb6tRaVhY",
+            "height": "auto",
+            "props": {
+              "variant": "Il8x6CNJo"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "pZBZiVFOg",
+            "height": "984px",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "UbSW1UJWD",
+          "height": "80px",
+          "props": {
+            "variant": "F59MIEyES"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "y4JdlqKnP",
+          "height": "auto",
+          "props": {
+            "variant": "eGY4KHJg1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "My Role",
+            "ULZ4DmAKg": "The Challenge",
+            "UN9ew2HTo": "Design System",
+            "Gieu70rUp": "How it Works",
+            "nSSdsaPWT": "Key Decision",
+            "Q01J5TifU": "Battle Story",
+            "KV43pDlgo": "Landing Page",
+            "WV92YHL0E": "Outcomes",
+            "HCoDOC7YO": "Reflection",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "208px",
+          "top": "143px",
+          "right": "20px"
+        }
+      }
+    }
+  },
+  "/project/hastyhire": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-hastyhire",
+            "component": "hero-hastyhire",
+            "sourceId": "lNH5_cBsO",
+            "height": "1251px",
+            "props": {}
+          },
+          {
+            "id": "content-details-hastyhire",
+            "component": "content-details-hastyhire",
+            "sourceId": "LbAaJHywV",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "m2TvAA2zu",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "dI29eGSc_",
+          "height": "80px",
+          "props": {}
+        },
+        "headerTop": "0px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-hastyhire",
+            "component": "hero-hastyhire",
+            "sourceId": "lNH5_cBsO",
+            "height": "1090px",
+            "props": {
+              "variant": "E4aR8im6i"
+            }
+          },
+          {
+            "id": "content-details-hastyhire",
+            "component": "content-details-hastyhire",
+            "sourceId": "LbAaJHywV",
+            "height": "auto",
+            "props": {
+              "variant": "Urb1I8tsl"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "m2TvAA2zu",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "dI29eGSc_",
+          "height": "80px",
+          "props": {
+            "variant": "ImqMkoRNe"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "hMS2xBkwO",
+          "height": "auto",
+          "props": {
+            "variant": "uuZtQcfO1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": false,
+            "qjyDuTKwj": false,
+            "FD0q0f4Es": false,
+            "HXb49v8kI": false,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "Context & Problem",
+            "iPDfY6rAM": "Design System",
+            "ULZ4DmAKg": "The Work",
+            "UN9ew2HTo": "Key Decisions",
+            "Gieu70rUp": "Constraints",
+            "nSSdsaPWT": "Outcomes",
+            "Q01J5TifU": "Post-Launched",
+            "KV43pDlgo": "Reflection",
+            "WV92YHL0E": "-",
+            "HCoDOC7YO": "-",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "228px",
+          "top": "144px",
+          "right": "28px"
+        }
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-hastyhire",
+            "component": "hero-hastyhire",
+            "sourceId": "lNH5_cBsO",
+            "height": "1500px",
+            "props": {
+              "variant": "NZLwLvTP3"
+            }
+          },
+          {
+            "id": "content-details-hastyhire",
+            "component": "content-details-hastyhire",
+            "sourceId": "LbAaJHywV",
+            "height": "auto",
+            "props": {
+              "variant": "RGsLaCHs9"
+            },
+            "gap": 15
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "m2TvAA2zu",
+            "height": "984px",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "dI29eGSc_",
+          "height": "80px",
+          "props": {
+            "variant": "F59MIEyES"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "pD_SU8zZc",
+          "height": "auto",
+          "props": {
+            "variant": "eGY4KHJg1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "Context & Problem",
+            "iPDfY6rAM": "Design System",
+            "ULZ4DmAKg": "The Work",
+            "UN9ew2HTo": "Key Decisions",
+            "Gieu70rUp": "Constraints",
+            "nSSdsaPWT": "Outcome",
+            "Q01J5TifU": "Reflfection",
+            "KV43pDlgo": "-",
+            "WV92YHL0E": "-",
+            "HCoDOC7YO": "-",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "208px",
+          "top": "143px",
+          "right": "20px"
+        }
+      }
+    }
+  },
+  "/project/nurri": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-section-project-nurri",
+            "component": "hero-section-project-nurri",
+            "sourceId": "NSbm3qTL8",
+            "height": "1251px",
+            "props": {}
+          },
+          {
+            "id": "content-details-nurri",
+            "component": "content-details-nurri",
+            "sourceId": "f3yyK53JD",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "whEYglGRj",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "GJZsMcpMD",
+          "height": "80px",
+          "props": {}
+        },
+        "headerTop": "0px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-section-project-nurri",
+            "component": "hero-section-project-nurri",
+            "sourceId": "NSbm3qTL8",
+            "height": "1090px",
+            "props": {
+              "variant": "R73fit4TA"
+            }
+          },
+          {
+            "id": "content-details-nurri",
+            "component": "content-details-nurri",
+            "sourceId": "f3yyK53JD",
+            "height": "auto",
+            "props": {
+              "variant": "px_1Z2R1U"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "whEYglGRj",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "GJZsMcpMD",
+          "height": "80px",
+          "props": {
+            "variant": "ImqMkoRNe"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "jMlcpf4Ev",
+          "height": "auto",
+          "props": {
+            "variant": "uuZtQcfO1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": false,
+            "qjyDuTKwj": false,
+            "FD0q0f4Es": false,
+            "HXb49v8kI": false,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "Context & Problem",
+            "iPDfY6rAM": "Design System",
+            "ULZ4DmAKg": "The Work",
+            "UN9ew2HTo": "Key Decisions",
+            "Gieu70rUp": "Constraints",
+            "nSSdsaPWT": "Outcomes",
+            "Q01J5TifU": "Post-Launched",
+            "KV43pDlgo": "Reflection",
+            "WV92YHL0E": "-",
+            "HCoDOC7YO": "-",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "228px",
+          "top": "144px",
+          "right": "28px"
+        }
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-section-project-nurri",
+            "component": "hero-section-project-nurri",
+            "sourceId": "NSbm3qTL8",
+            "height": "1500px",
+            "props": {
+              "variant": "neXEAHgzs"
+            }
+          },
+          {
+            "id": "content-details-nurri",
+            "component": "content-details-nurri",
+            "sourceId": "f3yyK53JD",
+            "height": "auto",
+            "props": {
+              "variant": "paK3lAwsF"
+            },
+            "gap": 15
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "whEYglGRj",
+            "height": "984px",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "GJZsMcpMD",
+          "height": "80px",
+          "props": {
+            "variant": "F59MIEyES"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "vuvsOS4gx",
+          "height": "auto",
+          "props": {
+            "variant": "eGY4KHJg1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "Context & Problem",
+            "iPDfY6rAM": "Design System",
+            "ULZ4DmAKg": "The Work",
+            "UN9ew2HTo": "Key Decisions",
+            "Gieu70rUp": "Constraints",
+            "nSSdsaPWT": "Outcome",
+            "Q01J5TifU": "Reflfection",
+            "KV43pDlgo": "-",
+            "WV92YHL0E": "-",
+            "HCoDOC7YO": "-",
+            "YhWT4BcVe": "",
+            "ryt2oDd5W": "",
+            "o65vsNGLx": "",
+            "ZKcZS3YfF": "/project/agenticas",
+            "pGpnnRN06": "/project/agenticas",
+            "jooypjTyi": "/project/agenticas",
+            "FQpf_uFEM": "/project/agenticas",
+            "QvNDSDoq_": "/project/agenticas",
+            "Z1fLmcwTP": "/project/agenticas",
+            "ljlVRwBF9": "/project/agenticas",
+            "cPCwy7LLY": "/project/agenticas",
+            "CcBy7fG1p": "/project/agenticas",
+            "Wa3avzfGy": "/project/agenticas"
+          },
+          "width": "208px",
+          "top": "143px",
+          "right": "20px"
+        }
+      }
+    }
+  },
+  "/project/eduqat-ai-course": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-eduqat-course",
+            "component": "hero-eduqat-course",
+            "sourceId": "corz8i2AS",
+            "height": "1230px",
+            "props": {}
+          },
+          {
+            "id": "content-details-eduqat-course",
+            "component": "content-details-eduqat-course",
+            "sourceId": "h9yDVg3_T",
+            "height": "auto",
+            "props": {},
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "Tm5WZPLml",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "FspsA9FsD",
+          "height": "80px",
+          "props": {}
+        },
+        "headerTop": "0px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-eduqat-course",
+            "component": "hero-eduqat-course",
+            "sourceId": "corz8i2AS",
+            "height": "1065px",
+            "props": {
+              "variant": "EYlPOJRSo"
+            }
+          },
+          {
+            "id": "content-details-eduqat-course",
+            "component": "content-details-eduqat-course",
+            "sourceId": "h9yDVg3_T",
+            "height": "auto",
+            "props": {
+              "variant": "NBpALT9F3"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "Tm5WZPLml",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "FspsA9FsD",
+          "height": "80px",
+          "props": {
+            "variant": "ImqMkoRNe"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "i5OSXgqC_",
+          "height": "auto",
+          "props": {
+            "variant": "uuZtQcfO1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": true,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "Brief vs Reality",
+            "ULZ4DmAKg": "Root Cause",
+            "UN9ew2HTo": "Evidence",
+            "Gieu70rUp": "Competition",
+            "nSSdsaPWT": "Design Direction",
+            "Q01J5TifU": "Userflow",
+            "KV43pDlgo": "Decisions",
+            "WV92YHL0E": "UI Breakdown",
+            "HCoDOC7YO": "AI Branding",
+            "YhWT4BcVe": "Battle Story",
+            "ryt2oDd5W": "Result",
+            "o65vsNGLx": "Reflection",
+            "ZKcZS3YfF": "/project/eduqat-ai-course",
+            "pGpnnRN06": "/project/eduqat-ai-course",
+            "jooypjTyi": "/project/eduqat-ai-course",
+            "FQpf_uFEM": "/project/eduqat-ai-course",
+            "QvNDSDoq_": "/project/eduqat-ai-course",
+            "Z1fLmcwTP": "/project/eduqat-ai-course",
+            "ljlVRwBF9": "/project/eduqat-ai-course",
+            "cPCwy7LLY": "/project/eduqat-ai-course",
+            "CcBy7fG1p": "/project/eduqat-ai-course",
+            "Wa3avzfGy": "/project/eduqat-ai-course",
+            "Z8K3w_woD": "/project/eduqat-ai-course",
+            "bEr3en2B5": "/project/eduqat-ai-course"
+          },
+          "width": "228px",
+          "top": "144px",
+          "right": "28px"
+        }
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-eduqat-course",
+            "component": "hero-eduqat-course",
+            "sourceId": "corz8i2AS",
+            "height": "1448px",
+            "props": {
+              "variant": "PKg0wsPco"
+            }
+          },
+          {
+            "id": "content-details-eduqat-course",
+            "component": "content-details-eduqat-course",
+            "sourceId": "h9yDVg3_T",
+            "height": "auto",
+            "props": {
+              "variant": "xgKfFQbGL"
+            },
+            "gap": 0
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "Tm5WZPLml",
+            "height": "984px",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "content-header",
+          "component": "content-header",
+          "sourceId": "FspsA9FsD",
+          "height": "80px",
+          "props": {
+            "variant": "F59MIEyES"
+          }
+        },
+        "headerTop": "0px",
+        "panel": {
+          "id": "content-panel",
+          "component": "content-panel",
+          "sourceId": "UBBDAxXCu",
+          "height": "auto",
+          "props": {
+            "variant": "eGY4KHJg1",
+            "rw408u5Tz": true,
+            "tdUj_ZHl_": true,
+            "lEZcJMQEf": true,
+            "qjyDuTKwj": true,
+            "FD0q0f4Es": true,
+            "HXb49v8kI": true,
+            "NBc_AS4G_": false,
+            "OuySifAE4": "The Problem",
+            "iPDfY6rAM": "Brief vs Reality",
+            "ULZ4DmAKg": "Root Cause",
+            "UN9ew2HTo": "Evidence",
+            "Gieu70rUp": "Competition",
+            "nSSdsaPWT": "Design Direction",
+            "Q01J5TifU": "Userflow",
+            "KV43pDlgo": "Decisions",
+            "WV92YHL0E": "UI Breakdown",
+            "HCoDOC7YO": "Battle Story",
+            "YhWT4BcVe": "Result",
+            "ryt2oDd5W": "Reflection",
+            "o65vsNGLx": "Reflection",
+            "ZKcZS3YfF": "/project/eduqat-ai-course",
+            "pGpnnRN06": "/project/eduqat-ai-course",
+            "jooypjTyi": "/project/eduqat-ai-course",
+            "FQpf_uFEM": "/project/eduqat-ai-course",
+            "QvNDSDoq_": "/project/eduqat-ai-course",
+            "Z1fLmcwTP": "/project/eduqat-ai-course",
+            "ljlVRwBF9": "/project/eduqat-ai-course",
+            "cPCwy7LLY": "/project/eduqat-ai-course",
+            "CcBy7fG1p": "/project/eduqat-ai-course",
+            "Wa3avzfGy": "/project/eduqat-ai-course",
+            "Z8K3w_woD": "/project/eduqat-ai-course",
+            "bEr3en2B5": "/project/eduqat-ai-course"
+          },
+          "width": "208px",
+          "top": "143px",
+          "right": "20px"
+        }
+      }
+    }
+  },
+  "/vibe": {
+    "background": "rgb(249, 249, 249)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-section-vibe",
+            "component": "hero-section-vibe",
+            "sourceId": "sXf_s56qY",
+            "height": "100vh",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "tL3SRrpeF",
+          "height": "auto",
+          "props": {
+            "variant": "o36hvJeXY"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-section-vibe",
+            "component": "hero-section-vibe",
+            "sourceId": "sXf_s56qY",
+            "height": "100vh",
+            "props": {
+              "variant": "IIwJIq2Kb"
+            }
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "tL3SRrpeF",
+          "height": "auto",
+          "props": {
+            "variant": "Q5_R9kxDT"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-section-vibe",
+            "component": "hero-section-vibe",
+            "sourceId": "sXf_s56qY",
+            "height": "100vh",
+            "props": {
+              "variant": "dIV7aUj2q"
+            }
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "tL3SRrpeF",
+          "height": "auto",
+          "props": {
+            "variant": "nQqS3CrNa"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      }
+    }
+  },
+  "/aboutme": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-section-about",
+            "component": "hero-section-about",
+            "sourceId": "NYCvT4UEA",
+            "height": "900px",
+            "props": {}
+          },
+          {
+            "id": "about-me-section",
+            "component": "about-me-section",
+            "sourceId": "Tbu6tfucJ",
+            "height": "auto",
+            "props": {}
+          },
+          {
+            "id": "what-i-do-section",
+            "component": "what-i-do-section",
+            "sourceId": "a7Zfvwf24",
+            "height": "auto",
+            "props": {}
+          },
+          {
+            "id": "integration-tools-section",
+            "component": "integration-tools-section",
+            "sourceId": "mMBmu5Ta1",
+            "height": "auto",
+            "props": {}
+          },
+          {
+            "id": "contact-me-section",
+            "component": "contact-section",
+            "sourceId": "xmDGVktgv",
+            "height": "auto",
+            "props": {}
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "e3oe2jO1g",
+            "height": "790px",
+            "props": {}
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "f35V5t05m",
+          "height": "auto",
+          "props": {
+            "variant": "c6pAaeIeI"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-section-about",
+            "component": "hero-section-about",
+            "sourceId": "NYCvT4UEA",
+            "height": "900px",
+            "props": {
+              "variant": "Xxy_mX5RJ"
+            }
+          },
+          {
+            "id": "about-me-section",
+            "component": "about-me-section",
+            "sourceId": "Tbu6tfucJ",
+            "height": "auto",
+            "props": {
+              "variant": "HhKevQeNw"
+            }
+          },
+          {
+            "id": "what-i-do-section",
+            "component": "what-i-do-section",
+            "sourceId": "a7Zfvwf24",
+            "height": "auto",
+            "props": {
+              "variant": "NkmbK8HXB"
+            }
+          },
+          {
+            "id": "integration-tools-section",
+            "component": "integration-tools-section",
+            "sourceId": "mMBmu5Ta1",
+            "height": "auto",
+            "props": {
+              "variant": "do8dLs05T"
+            }
+          },
+          {
+            "id": "contact-me-section",
+            "component": "contact-section",
+            "sourceId": "xmDGVktgv",
+            "height": "auto",
+            "props": {
+              "variant": "BAt2bO5Js"
+            }
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "e3oe2jO1g",
+            "height": "790px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            }
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "f35V5t05m",
+          "height": "auto",
+          "props": {
+            "variant": "pkvfRSTLt"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-section-about",
+            "component": "hero-section-about",
+            "sourceId": "NYCvT4UEA",
+            "height": "648px",
+            "props": {
+              "variant": "r0x4vQB2o"
+            }
+          },
+          {
+            "id": "about-me-section",
+            "component": "about-me-section",
+            "sourceId": "Tbu6tfucJ",
+            "height": "auto",
+            "props": {
+              "variant": "yDKoP1ujP"
+            }
+          },
+          {
+            "id": "what-i-do-section",
+            "component": "what-i-do-section",
+            "sourceId": "a7Zfvwf24",
+            "height": "auto",
+            "props": {
+              "variant": "GdBhjlpu3"
+            }
+          },
+          {
+            "id": "integration-tools-section",
+            "component": "integration-tools-section",
+            "sourceId": "mMBmu5Ta1",
+            "height": "auto",
+            "props": {
+              "variant": "px3Xw1oCu"
+            }
+          },
+          {
+            "id": "contact-me-section",
+            "component": "contact-section",
+            "sourceId": "xmDGVktgv",
+            "height": "auto",
+            "props": {
+              "variant": "Ft5FDibOa"
+            }
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "e3oe2jO1g",
+            "height": "auto",
+            "props": {
+              "variant": "iQtnnQX9B"
+            }
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "f35V5t05m",
+          "height": "auto",
+          "props": {
+            "variant": "q6fcuk4Gq"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      }
+    }
+  },
+  "/works": {
+    "background": "rgb(250, 250, 250)",
+    "breakpoints": {
+      "Desktop": {
+        "sections": [
+          {
+            "id": "hero-section-works",
+            "component": "hero-section-works",
+            "sourceId": "a9Cse4xy4",
+            "height": "1081px",
+            "props": {}
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section-2",
+            "sourceId": "SFSXecZBR",
+            "height": "4980px",
+            "props": {}
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "VGgECzY7Q",
+            "height": "901px",
+            "props": {},
+            "gap": 80
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "xwki_Z7HO",
+            "height": "661px",
+            "props": {},
+            "gap": 80
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "wNh2Ykssg",
+            "height": "790px",
+            "props": {},
+            "gap": 80
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "sfzDNQO2r",
+          "height": "auto",
+          "props": {
+            "variant": "bImizfDKZ"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Tablet": {
+        "sections": [
+          {
+            "id": "hero-section-works",
+            "component": "hero-section-works",
+            "sourceId": "a9Cse4xy4",
+            "height": "973px",
+            "props": {
+              "variant": "xsOESy1zu"
+            }
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section-2",
+            "sourceId": "SFSXecZBR",
+            "height": "5538px",
+            "props": {
+              "variant": "J32WkLmXF"
+            }
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "VGgECzY7Q",
+            "height": "1395px",
+            "props": {
+              "variant": "a9gFpvqre"
+            },
+            "gap": 0
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "xwki_Z7HO",
+            "height": "661px",
+            "props": {
+              "variant": "EZXLuEeiq"
+            },
+            "gap": 80
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "wNh2Ykssg",
+            "height": "1095px",
+            "props": {
+              "variant": "kuUJhJBJv"
+            },
+            "gap": 80
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "sfzDNQO2r",
+          "height": "auto",
+          "props": {
+            "variant": "TbCI0CsBM"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      },
+      "Phone": {
+        "sections": [
+          {
+            "id": "hero-section-works",
+            "component": "hero-section-works",
+            "sourceId": "a9Cse4xy4",
+            "height": "789px",
+            "props": {
+              "variant": "XmP71BRkr"
+            }
+          },
+          {
+            "id": "featured-works",
+            "component": "featured-works-section-2",
+            "sourceId": "SFSXecZBR",
+            "height": "4912px",
+            "props": {
+              "variant": "BO4bzAUgf"
+            }
+          },
+          {
+            "id": "section-blogs",
+            "component": "section-blogs",
+            "sourceId": "VGgECzY7Q",
+            "height": "1907px",
+            "props": {
+              "variant": "X720JEYlc"
+            },
+            "gap": 0
+          },
+          {
+            "id": "testimonials",
+            "component": "testimonials",
+            "sourceId": "xwki_Z7HO",
+            "height": "619px",
+            "props": {
+              "variant": "CM8cmqqsk"
+            },
+            "gap": 80
+          },
+          {
+            "id": "footer-desktop",
+            "component": "footer-desktop",
+            "sourceId": "wNh2Ykssg",
+            "height": "auto",
+            "props": {
+              "variant": "iQtnnQX9B"
+            },
+            "gap": 80
+          }
+        ],
+        "header": {
+          "id": "header-section",
+          "component": "header-section",
+          "sourceId": "sfzDNQO2r",
+          "height": "auto",
+          "props": {
+            "variant": "OSFUoZNpB"
+          }
+        },
+        "headerTop": "20px",
+        "panel": null
+      }
+    }
+  }
+}
